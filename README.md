@@ -89,5 +89,4 @@ pipeline {
 }
 
 📫 İletişim
-Projeyi geliştiren kişiye ulaşmak için:
-GitHub: seflekL
+ GitHub: seflekL
